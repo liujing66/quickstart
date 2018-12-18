@@ -33,10 +33,8 @@
       <id>optional</id>
       <active>true</active>
       <protocol>http</protocol>
-      <username>proxyuser</</username>
-      <password>proxypass</password>
-      <host>proxy.host.net</host>
-      <port>80</port>
+      <host>192.168.102.7</host>
+      <port>3128</port>
       <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
     </proxy>
     -->
